@@ -36,7 +36,7 @@ keyPassword="your key password"
 storeFile="path of you .keystore"
 ```
 Your keystore goes under 
-```
+```000
 android/app/yourkey.keystore
 ```
 
